@@ -1,6 +1,6 @@
 # IoT_Blockchain
 # THIS IS THE FULL NODE of the IoT micro-Blockchain v0.1
-# It contains all the ingredients for building a prime IoT Blockchain over minimal HW 
+# It contains all the ingredients for building a prime IoT Blockchain network over minimal HW 
 # Tested on Arduino Nano33 IoT. WiFiNINA firmware 1.4.0 and Library 1.7.0
 Last updated: Jan 19th 2021
 Contains code for: 1. connection (http server & client over wifi, 2. encryption, 3. hashing
