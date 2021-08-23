@@ -8,4 +8,4 @@
 # Kudos to https://stackoverflow.com/users/6125661/telkepalli-venkat-karthik for experimental RSA
 # Modified accordingly for maximum capacity via "long unsigned" keys, bounded and tested in range
 # Implementing https://simple.wikipedia.org/wiki/RSA_algorithm
-# This is a proof of the concept that autonomous IoT blockchains can be build based on minimal HW
+This code is experimental. It is a proof of the concept that autonomous IoT blockchain networks can be build based on minimal HW
